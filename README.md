@@ -1,7 +1,3 @@
-# 💫 About Me:
-🚀 About Me<br><br>🔭 I’m currently working on:<br>Building full-stack projects in Django and Laravel, including APIs, authentication systems, and real-world management dashboards.<br><br>👯 I’m looking to collaborate on:<br>Open-source Django REST, Laravel Jetstream, and backend optimization projects.<br><br>🤝 I’m looking for help with:<br>Improving my DevOps, deployment, and scalable architecture skills.<br><br>🌱 I’m currently learning:<br>Advanced Django 6, JWT authentication, permissions systems, and high-performance backend patterns.<br><br>💬 Ask me about:<br>Django REST Framework, Laravel Jetstream, authentication flows, CRUD systems, database structure, and backend performance.<br><br>⚡ Fun fact:<br>I write code faster when my project has a deadline… even if I set the deadline myself 😄
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mythical_cosmic) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mythical_cosmic) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mythical_cosmic) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mythicalcosmic7@gmail.com) 
 
