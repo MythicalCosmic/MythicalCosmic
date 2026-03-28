@@ -22,7 +22,7 @@ I build fast backends, ship to production, and maintain open-source tools with *
 
 | Package | Downloads | Description |
 |---------|-----------|-------------|
-| [**boundless-aiogram**](https://pypi.org/project/boundless-aiogram/) | 22,000+ | Production-ready Telegram bot framework with CLI scaffolding, 10 templates, and Django integration |
+| [**boundless-aiogram (formarly named as airoframework)**](https://pypi.org/project/boundless-aiogram/) | 22,000+ | Production-ready Telegram bot framework with CLI scaffolding, 10 templates, and Django integration |
 | [**limitless-py**](https://pypi.org/project/limitless-py/) | 1,600+ | Zero-dependency async rate limiter · Token bucket algorithm · ~150 lines |
 
 ### 🛠 Core Stack
