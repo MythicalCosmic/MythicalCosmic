@@ -22,7 +22,7 @@ I build fast backends, ship to production, and maintain open-source tools with *
 
 | Package | Downloads | Description |
 |---------|-----------|-------------|
-| [**django-scope**](https://pypi.org/project/django-scope/) | 1,000+ ⭐ 20+ | Real-time Django debug assistant — Laravel Telescope equivalent · 18 watchers · WebSocket dashboard · N+1 detection |
+| [**django-scope**](https://pypi.org/project/django-scope/) | 1,000+ ⭐ 10+ | Real-time Django debug assistant — Laravel Telescope equivalent · 18 watchers · WebSocket dashboard · N+1 detection |
 | [**boundless-aiogram**](https://pypi.org/project/boundless-aiogram/) | 22,000+ | Production-ready Telegram bot framework with CLI scaffolding, 10 templates, and Django integration |
 | [**limitless-py**](https://pypi.org/project/limitless-py/) | 1,600+ | Zero-dependency async rate limiter · Token bucket algorithm · ~150 lines |
 
