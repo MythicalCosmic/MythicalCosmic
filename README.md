@@ -1,6 +1,6 @@
 ## Hey, I'm MythicalCosmic 👋
 
-**Full-Stack Developer · Open Source Author · CEO & Co-Founder of AlphaPOS & Kitobxon**
+**Full-Stack Developer · Open Source Author · CEO & Co-Founder of AlphaPOS**
 
 I build fast backends, ship to production, and maintain open-source tools with **24,000+ PyPI downloads**.
 
@@ -15,14 +15,13 @@ I build fast backends, ship to production, and maintain open-source tools with *
 ### 🚀 What I Do
 
 - **AlphaPOS** — Next-gen restaurant POS platform · 50,000+ transactions · zero downtime (CEO & Co-Founder)
-- **Kitobxon** — Smart library platform for Uzbekistan's education market (CEO & Co-Founder)
 - **20+ projects shipped** (8 public, rest private/NDA) across POS, EdTech, streaming, and automation
 
 ### 📦 Open Source
 
 | Package | Downloads | Description |
 |---------|-----------|-------------|
-| [**django-scope**](https://pypi.org/project/django-scope/) | 1,000+ ⭐ 10+ | Real-time Django debug assistant — Laravel Telescope equivalent · 18 watchers · WebSocket dashboard · N+1 detection |
+| [**django-scope**](https://pypi.org/project/django-scope/) | 1,000+ ⭐ 15+ | Real-time Django debug assistant — Laravel Telescope equivalent · 18 watchers · WebSocket dashboard · N+1 detection |
 | [**boundless-aiogram**](https://pypi.org/project/boundless-aiogram/) | 22,000+ | Production-ready Telegram bot framework with CLI scaffolding, 10 templates, and Django integration |
 | [**limitless-py**](https://pypi.org/project/limitless-py/) | 1,600+ | Zero-dependency async rate limiter · Token bucket algorithm · ~150 lines |
 
